@@ -27,3 +27,5 @@ nothing published yet. soon.
 ---
 
 *"the bridge is only as secure as its weakest validator"*
+
+<sub>pgp: coming soon</sub>
