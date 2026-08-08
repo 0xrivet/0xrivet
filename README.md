@@ -13,12 +13,7 @@ i spend most of my time staring at bridge contracts, multisig configurations, an
 
 #### builds
 
-| | |
-|---|---|
-| [bridge-security-toolkit](https://github.com/affihoucen/bridge-security-toolkit) | cross-chain bridge security analysis — DVN checks, timelock detection, admin key tracing |
-| [evm-calldata-decoder](https://github.com/affihoucen/evm-calldata-decoder) | calldata & trace decoder — delegatecall resolution, Safe tx analysis |
-| [onchain-monitor](https://github.com/affihoucen/onchain-monitor) | real-time on-chain event monitor — upgrades, ownership changes, multisig mods |
-| [solidity-audit-notes](https://github.com/affihoucen/solidity-audit-notes) | vulnerability patterns with working Foundry PoCs |
+migrating tools to public repos — more dropping over the next few days. check [0xrivet.xyz/tools](https://0xrivet.xyz/tools) or [github](https://github.com/affihoucen).
 
 ---
 
