@@ -15,7 +15,7 @@ i spend most of my time staring at bridge contracts, multisig configurations, an
 
 | | |
 |---|---|
-| [bridge-security-toolkit](https://github.com/affihoucen/bridge-security-toolkit) | cross-chain bridge security analysis — DVN checks, timelock detection, admin key tracing |
+| [bridge-security-toolkit](https://github.com/0xrivet/bridge-security-toolkit) | cross-chain bridge security analysis — DVN checks, timelock detection, admin key tracing |
 
 more tools migrating to public repos. check [0xrivet.xyz/tools](https://0xrivet.xyz/tools).
 
