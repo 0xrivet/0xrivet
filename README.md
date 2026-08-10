@@ -16,8 +16,9 @@ i spend most of my time staring at bridge contracts, multisig configurations, an
 | | |
 |---|---|
 | [bridge-security-toolkit](https://github.com/0xrivet/bridge-security-toolkit) | cross-chain bridge security analysis — DVN checks, timelock detection, admin key tracing |
+| [evm-calldata-decoder](https://github.com/0xrivet/evm-calldata-decoder) | calldata & trace decoder — delegatecall resolution, Safe tx analysis |
 
-more tools migrating to public repos. check [0xrivet.xyz/tools](https://0xrivet.xyz/tools).
+more at [0xrivet.xyz/tools](https://0xrivet.xyz/tools).
 
 ---
 
