@@ -10,6 +10,9 @@ i spend most of my time staring at bridge contracts, multisig configurations, an
 - multisig opsec — threshold analysis, key management gaps
 - proxy upgrades — timelock bypass, implementation takeover vectors
 - evm storage forensics — slot mapping, delegatecall context tracing
+- RPC/node infrastructure — endpoint exposure, API key leakage
+- CI/CD pipeline security — GitHub Actions, deployment key management
+- developer opsec — device compromise vectors, signing infrastructure
 
 #### builds
 
